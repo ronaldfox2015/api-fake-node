@@ -1,0 +1,167 @@
+{
+    "payment": {
+        "product": {
+            "get": {
+                "query": {
+                    "12": [
+                        {
+                            "id": 52,
+                            "name": "Entrada General",
+                            "benefits": [
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "A partir de 1 hasta 2 entradas.",
+                                    "description": "A partir de 1 hasta 2 entradas.",
+                                    "value": 0
+                                },
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "Precio final por entrada.",
+                                    "description": "Precio final por entrada.",
+                                    "value": 0
+                                }
+                            ],
+                            "sub": [],
+                            "rate": {
+                                "id": 35,
+                                "type": "web",
+                                "real_cost": "350.00",
+                                "cost": "350.00",
+                                "igv": 63,
+                                "total": 413,
+                                "cost_format": "350.00",
+                                "discount": 0
+                            }
+                        },
+                        {
+                            "id": 53,
+                            "name": "Entrada Corporativa",
+                            "benefits": [
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "A partir de 3 a más entradas.",
+                                    "description": "A partir de 3 a más entradas.",
+                                    "value": 0
+                                },
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "Precio final por entrada.",
+                                    "description": "Precio final por entrada.",
+                                    "value": 0
+                                }
+                            ],
+                            "sub": [],
+                            "rate": {
+                                "id": 36,
+                                "type": "web",
+                                "real_cost": "250.00",
+                                "cost": "250.00",
+                                "igv": 45,
+                                "total": 295,
+                                "cost_format": "250.00",
+                                "discount": 0
+                            }
+                        },
+                        {
+                            "id": 54,
+                            "name": "Entrada Aptitus",
+                            "benefits": [
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "Sólo para clientes con Membresia Aptitus y/o clientes Suscriptores a la revista Aptitus.",
+                                    "description": "Sólo para clientes con Membresia Aptitus y/o clientes Suscriptores a la revista Aptitus.",
+                                    "value": 0
+                                },
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "Venta exclusiva por call center telefono 3116707 - Opción 3.",
+                                    "description": "Venta exclusiva por call center telefono 3116707 - Opción 3.",
+                                    "value": 0
+                                },
+                                {
+                                    "type": "description",
+                                    "code": "evento",
+                                    "name": "Precio final por entrada.",
+                                    "description": "Precio final por entrada.",
+                                    "value": 0
+                                }
+                            ],
+                            "sub": [],
+                            "rate": {
+                                "id": 37,
+                                "type": "web",
+                                "real_cost": "180.00",
+                                "cost": "180.00",
+                                "igv": 32.4,
+                                "total": 212,
+                                "cost_format": "180.00",
+                                "discount": 0
+                            }
+                        }
+                    ]
+                },
+                "params": {
+                    "52": {
+                        "id": 52,
+                        "name": "Entrada General",
+                        "benefits": [
+                            {
+                                "type": "description",
+                                "code": "evento",
+                                "name": "A partir de 1 hasta 2 entradas.",
+                                "description": "A partir de 1 hasta 2 entradas.",
+                                "value": 0
+                            },
+                            {
+                                "type": "description",
+                                "code": "evento",
+                                "name": "Precio final por entrada.",
+                                "description": "Precio final por entrada.",
+                                "value": 0
+                            }
+                        ],
+                        "sub": [],
+                        "rate": {
+                            "id": 35,
+                            "type": "web",
+                            "real_cost": "350.00",
+                            "cost": "350.00",
+                            "igv": 63,
+                            "total": 413,
+                            "cost_format": "350.00",
+                            "discount": 0
+                        }
+                    }
+                }
+            }
+        },
+        "companies": {
+            "1": {
+                "product": {
+                    "get": {
+                        "params": {
+                            "45": {
+                                "id": 45,
+                                "name": "Look & Feel",
+                                "remainder": 1,
+                                "product_type_id": 6
+                            },
+                            "45": {
+                                "id": 45,
+                                "name": "Look & Feel",
+                                "remainder": 1,
+                                "product_type_id": 6
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
